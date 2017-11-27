@@ -1,24 +1,8 @@
-# README
+# To Do List with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task
+The purpose of this homework was to demonstrate and acquire a greater understanding of creating web applications using Ruby on Rails. A simple to-do list application was created, using MVC functionality. Users can create, edit, view and destroy tasks from the to-do list.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Requirements
+* Gem 'devise'
+* rake db:seed
